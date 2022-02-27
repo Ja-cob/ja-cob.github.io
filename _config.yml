@@ -39,6 +39,14 @@ kramdown:
   input: GFM
   # do not replace newlines by <br>s
   hard_wrap: false
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
+  homepage: "pages"
 
 plugins: ['jekyll-paginate']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
