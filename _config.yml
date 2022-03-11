@@ -4,7 +4,7 @@ domain: ja-cob.github.io
 # URL of the Site
 url: 'https://ja-cob.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: ja-cob.github.io
 
 # Title of the Site
 title: Jacob Bass
